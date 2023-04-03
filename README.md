@@ -1,6 +1,6 @@
 Sulaiman Kasas
 ===========================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=36BCF7FF&multiline=true&width=441&height=100&lines=Internship+at+EasyPartz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=36BCF7FF&multiline=true&width=441&height=100&lines=Internship+at+EasyPartz)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=36BCF7FF&multiline=true&repeat=false&width=441&height=100&lines=Software+Engineering+Student)](https://git.io/typing-svg)
